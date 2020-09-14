@@ -618,6 +618,15 @@ media (max-width:1200px)
         text-align: center;
     
 }
+.text-illustration h2
+{
+    font-size:20px;
+    margin-bottom:15px;
+}
+.flow
+{
+    margin-top: 250px !important;
+}
 .mockup-img img
 {
     display: block !important;
