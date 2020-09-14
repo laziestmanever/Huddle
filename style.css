@@ -509,7 +509,10 @@ media (max-width:1200px)
         margin: 0% !important;
         padding: 5px !important;
     }
-    
+    .msg-sent
+    {
+        margin-top:65px;
+    }
 }
 @media(max-width:537px)
 {
