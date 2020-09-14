@@ -89,7 +89,7 @@ nav
 .counts
 {
     margin-top: 100px;
-    margin-bottom: 270px;
+    margin-bottom: 250px;
 }
 .counts img
 {
@@ -541,6 +541,11 @@ media (max-width:1200px)
     {
         margin-bottom:-2px;
     }
+    .counts
+{
+    margin-top:80px;
+    margin-bottom:150px;
+}
 }
 @media(max-width:628px)
 {
