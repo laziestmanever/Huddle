@@ -607,7 +607,7 @@ media (max-width:1200px)
 }
 .ready-build button
 {
-    {
+    
         background-color: #ff52bf;
         text-transform:capitalize;
         padding: 8px 40px !important;
@@ -616,7 +616,7 @@ media (max-width:1200px)
          font-size: 120%;
         margin-top: 20px;
         text-align: center;
-    }
+    
 }
 .mockup-img img
 {
